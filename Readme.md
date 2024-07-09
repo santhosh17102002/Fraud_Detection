@@ -26,6 +26,6 @@ https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
 * Add your dataset in the source file!
 
-  ![Screenshot 2024-07-09 164108]()
+  
 
 
